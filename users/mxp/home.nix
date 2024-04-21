@@ -126,7 +126,6 @@
   #  /etc/profiles/per-user/mxp/etc/profile.d/hm-session-vars.sh
  #
   home.sessionVariables = {
-    # EDITOR = "emacs";
     EDITOR = "nvim";
   };
 
