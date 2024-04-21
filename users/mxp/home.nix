@@ -29,6 +29,7 @@
     tree
     file
     pinentry-qt # entry input for gpg
+    keepassxc
 
     # archives
     zip
