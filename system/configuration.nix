@@ -88,11 +88,6 @@
     description = "mxp";
     extraGroups = [ "networkmanager" "wheel" ];
     packages = with pkgs; [
-      git
-      git-crypt
-      gnupg
-      firefox
-      kate
     #  thunderbird
     ];
   };
@@ -107,6 +102,12 @@
   #  wget
   # git
   neovim
+  git
+  git-crypt
+  gnupg
+  firefox
+  kate
+  #  thunderbird
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
